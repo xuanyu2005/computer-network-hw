@@ -5,6 +5,7 @@
 ## hw1：基础echo&&ftp
 ### echo 
 服务器和客户端简单通信
+![image](https://github.com/xuanyu2005/computer-network-hw/blob/main/hw1_release/echo.png)
 #### 主要函数
 ##### 服务器方面初始时需要执行的操作：
 int socket ()		建立一个Socket  
